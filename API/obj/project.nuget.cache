@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQM5gqQ7fuT3ZSi2RMe01G8BOy6ZdLA8LFCqbI2umXbEpLEmFQ3fMmufKeSYx/Z8H/4oLX3eHbWLmNeM5RmbSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loisra01\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

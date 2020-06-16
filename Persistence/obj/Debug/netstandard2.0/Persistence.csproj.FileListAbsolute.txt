@@ -1,0 +1,12 @@
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\loisra01\Documents\GitLab\myprojects\Reactivities\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
