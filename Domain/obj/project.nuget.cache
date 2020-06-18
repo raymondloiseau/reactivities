@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zbfyavXYJV7Av0W1CiQZB8xj0NVHd1DF0XIqCuoKa8dt95pKXbzW4gy/qlhpjaEnXzKD3OE0Ll7PoO2wp6COxQ==",
+  "dgSpecHash": "Eq0bTItrkvmUCb1IqyJ191TbyK2shQdLfPXOeE8O3s5jZjewN5D6cBqgkqyk/yPgxErHk17Au1HuhapxjKwrJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "C:\\Git\\myprojects\\reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\loisra01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\RaymondPC2\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\myprojects\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\loisra01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RaymondPC2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Git\\myprojects\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Git\\myprojects\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\loisra01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Git\\myprojects\\reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\RaymondPC2\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\myprojects\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\loisra01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RaymondPC2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +79,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

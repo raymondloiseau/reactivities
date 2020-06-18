@@ -1204,19 +1204,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\loisra01\\.nuget\\packages\\": {}
+    "C:\\Users\\RaymondPC2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Git\\myprojects\\reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\loisra01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\API\\obj\\",
+      "projectPath": "C:\\Git\\myprojects\\reactivities\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\RaymondPC2\\.nuget\\packages\\",
+      "outputPath": "C:\\Git\\myprojects\\reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\loisra01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RaymondPC2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1229,8 +1229,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Application\\Application.csproj"
+            "C:\\Git\\myprojects\\reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\Git\\myprojects\\reactivities\\Application\\Application.csproj"
             }
           }
         }
@@ -1253,12 +1253,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1267,7 +1261,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

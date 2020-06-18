@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\loisra01\\.nuget\\packages\\": {}
+    "C:\\Users\\RaymondPC2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\loisra01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loisra01\\Documents\\GitLab\\myprojects\\Reactivities\\Domain\\obj\\",
+      "projectPath": "C:\\Git\\myprojects\\reactivities\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\RaymondPC2\\.nuget\\packages\\",
+      "outputPath": "C:\\Git\\myprojects\\reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\loisra01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RaymondPC2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
